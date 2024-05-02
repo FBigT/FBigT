@@ -1,5 +1,6 @@
-- 👋 Hi, I’m @FBigT
-- ⚡ Fun fact: Nut
+I’m @FBigT
+
+Fun fact: Is it child labor if its voluntary
 
 <!---
 FBigT/FBigT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
