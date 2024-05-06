@@ -1,6 +1,6 @@
-I’m @FBigT
+⁰I’m @FBigT
 
-Fun question - Is it child labor if its voluntary
+Fun question - Is it child labor if you don't pay them
 
 <!---
 FBigT/FBigT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
