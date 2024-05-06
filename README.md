@@ -1,4 +1,4 @@
-⁰I’m @FBigT
+I’m @FBigT
 
 Fun question - Is it child labor if you don't pay them
 
