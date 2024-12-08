@@ -1,6 +1,6 @@
 I’m @FBigT
 
-Fun question - Is it child labor if you don't pay them
+Some brain food - Is it child labor if you don't pay them
 
 <!---
 FBigT/FBigT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
